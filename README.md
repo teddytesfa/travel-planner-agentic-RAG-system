@@ -45,7 +45,7 @@ Find curated recommendations for responsible tourism—nature reserves, eco-lodg
 
 1. Clone the notebook.
 2. Install dependencies:  
-   `!pip install smolagents langchain langchain_community`
+   `!pip install smolagents langchain_community rank_bm25 ddgs`
 3. Run each cell to see live agentic retrieval and response generation.
 4. Adapt the knowledge base or queries for your own travel or planning use cases!
 
