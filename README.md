@@ -1,6 +1,6 @@
 # Agentic RAG System Demo: Eco-Friendly Ethiopia Travel Planner
 
-This notebook showcases how to build **Agentic Retrieval-Augmented Generation (RAG) Systems** using the Hugging Face [`smolagents`](https://github.com/huggingface/smolagents) framework, adapting the official tutorial with a new use case: planning a sustainable travel experience in Ethiopia.
+This notebook showcases how to build **Agentic Retrieval-Augmented Generation (RAG) Systems** using the Hugging Face [`smolagents`](https://github.com/huggingface/smolagents) framework.
 
 ---
 
